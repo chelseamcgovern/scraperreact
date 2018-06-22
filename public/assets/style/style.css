@@ -1,0 +1,13 @@
+/*Sticky Footer*/
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  
+    /*Add Background Texture*/
+    background-image: url('');
+  }
+  
+  main {
+    flex: 1 0 auto;
+  }
